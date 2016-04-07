@@ -1,0 +1,16 @@
+{
+  "name": "hydra-engine",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^1.5.0",
+    "dbpedia-spotlight": "^0.5.27",
+    "feedparser": "^1.1.4",
+    "iconv": "^2.1.11",
+    "langdetect": "^0.2.0",
+    "mongoose": "^4.2.4",
+    "request": "^2.65.0",
+    "striptags": "^2.0.4",
+    "summarizer": "^1.0.0"
+  }
+}
